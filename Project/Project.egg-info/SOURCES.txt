@@ -3,3 +3,9 @@ Project.egg-info/PKG-INFO
 Project.egg-info/SOURCES.txt
 Project.egg-info/dependency_links.txt
 Project.egg-info/top_level.txt
+project_files/__init__.py
+project_files/server.py
+project_files/translator.py
+project_files/tests/__init__.py
+project_files/tests/test_server.py
+project_files/tests/test_translator.py
